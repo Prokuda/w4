@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://w4-theta.vercel.app/"
 languageCode = "en-us"
 title = "Four Lost Cities"
 theme = "influencer-hugo"
