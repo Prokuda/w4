@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://greece24news.vercel.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Four Lost Cities"
 theme = "influencer-hugo"
